@@ -1,5 +1,3 @@
 .git
 logs
 venv
-*.pkl
-*.h5
